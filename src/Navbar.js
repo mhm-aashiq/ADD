@@ -34,13 +34,13 @@ const Navbar = () => {
         
         
         </a>
-        {/* <div className='toggle' >
+        <div className='toggle' >
         <button class="navbar-toggler " type="button" data-toggle="collapse" data-target="#navbarSupportedContent" >
         <span class="navbar-toggler-icon">   
 
       </span>
   </button>
-  </div> */}
+  </div>
             
     <div className="collapse navbar-collapse" id="navbarSupportedContent">
       <ul className="navbar-nav ms-auto mb-2 mb-lg-0">

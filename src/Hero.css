@@ -58,7 +58,7 @@
 
   @media screen and (max-width:375px) {
     .image-container .img {
-        max-width: fit-content;
+        max-width: 375px;
         background-position: center;
         background-repeat: no-repeat;
         background-size: contain;   
